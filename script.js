@@ -221,7 +221,7 @@ const downloadModal = document.getElementById('downloadModal');
 const confirmDownloadBtn = document.getElementById('confirmDownloadBtn');
 const closeModalBtn = document.getElementById('closeModalBtn');
 
-const MY_SITE = 'https://skibii323-web.github.io/qwsx/';
+const MY_SITE = 'https://gerther.github.io/Font-Color_Editor/';
 const authContainer = document.getElementById('authContainer');
 
 const langDropdown = document.getElementById('langDropdown');
